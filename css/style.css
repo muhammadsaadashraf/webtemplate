@@ -1,0 +1,138 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&display=swap');
+
+/* Global Css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: 0;
+    outline: 0;
+    font-family: 'Dosis', sans-serif;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.heading-one{
+
+}
+.heading-tow{
+
+}
+.btn{
+
+}
+p{
+
+}
+
+/* Layout Css */
+.row{
+    width: 100%;
+    float: left;
+}
+.col-1 
+ {width: 8.33%;
+    float: left;
+}
+.col-2
+ {width: 16.66%;
+    float: left;
+}
+.col-3
+ {width: 25%;
+  float: left;
+}
+.col-4
+ {width: 33.33%;
+    float: left;
+}
+.col-5
+ {width: 41.66%;
+    float: left;
+}
+.col-6
+ {width: 50%;
+float: left;
+}
+.col-7
+ {width: 58.33%;
+float: left;
+}
+.col-8
+ {width: 66.66%;
+float: left;
+}
+.col-9
+ {width: 75%;
+float: left;
+}
+.col-10
+ {width: 83.33%;
+float: left;
+}
+.col-11
+ {width: 91.66%;
+float: left;
+}
+.col-12
+ {width: 100%;
+float: left;
+}
+/*Header part start*/
+header{
+    background-color: #223047;
+    color: #fff;
+}
+.nav{
+    padding: 10px 0px;
+
+}
+.logo{
+
+}
+.manu{
+
+}
+.namu ul{
+    text-align: center;
+
+}
+.namu il{
+    list-style: none;
+    display: inline-back;
+
+}
+.namu a{
+font-size:18px;
+font-weight: 600;
+color: #00fff0;
+margin: 0px 10px ;
+}
+.btn-part{
+    text-align: end;
+    color: #00fff0;
+    font: size 20px;
+    font-weight: 700;
+
+}
+.hero-writing-part {
+
+}
+.hero-writing-part h1 {
+
+}
+.hero-writing-part p {
+
+}
+.hero-img-part {
+
+}
+.hero-img-part-img{
+    
+}
+
+/*Header part end*/
+
